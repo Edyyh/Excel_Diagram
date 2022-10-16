@@ -7,7 +7,6 @@ from tkinter.ttk import Combobox
 import numpy
 import pandas as pd
 from matplotlib import pyplot as plt
-# import xlrd
 import openpyxl
 import re
 
